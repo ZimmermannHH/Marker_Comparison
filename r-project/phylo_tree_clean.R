@@ -25,11 +25,6 @@ db2$Genus=gsub("g__", "",db2$Genus)
 db2$Species=gsub("s__", "",db2$Species)
 db2$Strain=gsub("t__", "",db2$Strain)
 
-classes<-read.table("ncbi_eukaryota_classes.txt", header=FALSE, sep="\t" )
-classes[3]=NULL
-classes$V2=gsub("cellular organisms;Eukaryota;", "", classes$V2)
-
-
 ##############################################################################
 #import subset of output which only contains protists
 clades.classes<-read.table("ncbi_eukaryota_classes_cladeinfo.txt", header=TRUE, sep="\t" )
