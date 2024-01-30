@@ -13,7 +13,7 @@ library(phylotools) #to read-in fasta files v. 0.2.2
 library(rlang)   # v. 1.1.0
 library(patchwork) #v. 1.1.2
 #devtools::install_github("gaospecial/ggVennDiagram")
-library("ggVennDiagram")
+library("ggVennDiagram") #v. 1.2.2
 
 
 setwd("lineages")
