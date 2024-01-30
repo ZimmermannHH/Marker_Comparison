@@ -7,3 +7,10 @@ Here, I provide the code that was used for the processing, filtering, and analys
 The code to process the data is explained exemplary in this README and bash scripts are stored in the `scripts` folder of this repository. Further data processing, filtering and the analysis of the data was carried out in `R`. The R-scripts are part of this repository and the README guides through the order of running them.
 
 For each marker, the folder `species_lists` contains a list of species that can be resolved on species level. 
+
+Run scripts in the following order:
+1.
+2.
+3.
+4.
+
