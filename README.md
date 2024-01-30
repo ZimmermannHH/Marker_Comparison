@@ -8,7 +8,7 @@ The code to process the data is explained exemplary in this README and bash scri
 
 For each marker, the folder `species_lists` contains a list of species that can be resolved on species level. 
 
-To run the scripts, the file `marker.lineages.df.txt` needs to be downloaded from GEUS Dataverse [Zimmermann et al.](https://doi.org/10.22008/FK2/A8PSA1)
+To run the scripts, the file `marker.lineages.df.txt` needs to be downloaded from GEUS Dataverse https://doi.org/10.22008/FK2/A8PSA1
 Run scripts in the following order:
 1.
 2.
