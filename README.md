@@ -15,6 +15,5 @@ Run scripts in the following order:
 1. marker_analysis.R
 2. resolution_coverage.R
 3. barcode_resolution_coverage_supplement.R 
-4. amplicon_size.R
-5. phylo_tree.R
+4. phylo_tree.R
 
