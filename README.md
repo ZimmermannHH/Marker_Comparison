@@ -2,7 +2,7 @@
 
 Scripts for in silico PCRs and output created for the comparison of short markers for DNA metabarcoding of sedimentary ancient DNA (sedaDNA).
 
-Here, I provide the code that was used for the processing, filtering, and analysis of the markers for the paper by [Zimmermann et al.](https://www.nature.com/articles/s41467-023-36845-x) Assessing the performance of 18S rDNA markers for sedimentary ancient DNA metabarcoding of marine protists. Environmental DNA (2024). LINK - DOI
+Here, I provide the code that was used for the processing, filtering, and analysis of the markers for the paper by [Zimmermann et al.](https://) Assessing the performance of short 18S rDNA markers for environmental DNA metabarcoding of marine protists. Environmental DNA (2024). LINK - DOI
 
 The code to process the data is explained exemplary in this README and bash scripts are stored in the `scripts` folder of this repository. Further data processing, filtering and the analysis of the data was carried out in `R`. The R-scripts are part of this repository and the README guides through the order of running them.
 
